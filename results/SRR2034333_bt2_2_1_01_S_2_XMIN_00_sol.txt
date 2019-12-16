@@ -1,0 +1,9 @@
+#	1:clpX_200 2:clpX_204 3:nifS_258 4:pepX_568 5:recG_131 6:uvrA_398 
+ 	    	     	1  2  3  4  5  6  
+0	0.17	Novel	C  T  X  T  G  C  
+1	0.83	Novel	C  G  T  X  T  C  
+Dev			12 08 16 08 16 13 
+Objective function: 1.2803817816809666
+Strain usage penalty: 1.0
+Normalized cumulated deviation penalty: 0.12129087259001675
+Maximum deviation penalty: 0.1590909090909498

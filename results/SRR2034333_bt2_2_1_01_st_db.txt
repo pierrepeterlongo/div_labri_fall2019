@@ -1,0 +1,1 @@
+3	0.0	pepX_568:T	recG_131:T	nifS_258:T	clpX_200:C	uvrA_398:C	clpX_204:G

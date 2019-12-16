@@ -1,0 +1,12 @@
+#	1:clpA_133 2:clpA_514 3:clpA_588 4:clpX_303 5:clpX_324 6:clpX_354 7:nifS_33 8:pyrG_190 9:pyrG_345 
+ 	    	     	1  2  3  4  5  6  7  8  9  
+0	0.03	Novel	G  A  T  T  A  G  T  G  T  
+1	0.03	Novel	G  A  T  T  T  G  T  C  G  
+2	0.05	Novel	A  A  T  T  T  G  G  C  T  
+3	0.31	Novel	A  G  T  G  A  T  G  G  G  
+4	0.58	Novel	A  A  X  G  A  T  G  G  G  
+Dev			0  0  0  01 0  01 01 01 0  
+Objective function: 1.0199403296686333
+Strain usage penalty: 1.0
+Normalized cumulated deviation penalty: 0.005603412105833351
+Maximum deviation penalty: 0.014336917562800033

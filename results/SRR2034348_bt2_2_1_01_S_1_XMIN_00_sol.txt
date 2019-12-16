@@ -1,0 +1,8 @@
+#	1:clpA_93 2:clpA_121 3:clpA_176 4:clpA_205 5:clpA_320 6:clpA_321 7:clpA_359 8:clpA_493 9:clpA_514 10:clpA_518 11:clpA_525 12:clpA_527 13:clpA_531 14:clpA_533 15:clpA_536 16:clpA_539 17:clpA_542 18:clpA_546 19:clpA_549 20:clpA_552 21:clpA_558 22:clpA_563 23:clpX_120 24:clpX_296 25:clpX_303 26:clpX_306 27:clpX_317 28:clpX_324 29:clpX_338 30:clpX_354 31:nifS_245 32:nifS_278 33:nifS_477 34:pepX_6 35:pepX_32 36:pepX_165 37:pepX_200 38:pepX_431 39:pepX_470 40:pepX_497 41:pyrG_575 42:recG_122 43:recG_539 44:uvrA_159 45:uvrA_164 46:uvrA_279 47:uvrA_281 48:uvrA_552 
+ 	    	     	1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 
+0	1.0	Novel	A  C  G  G  C  C  T  A  A  T  A  C  A  A  A  G  G  T  C  A  T  A  A  T  G  G  C  A  T  T  C  T  C  A  T  G  C  G  A  T  C  G  T  C  C  T  A  G  
+Dev			92 96 16 12 88 89 05 17 5  27 19 1  21 06 05 15 1  03 04 05 05 05 03 03 13 09 05 07 03 08 15 03 15 99 96 04 96 1.094 93 02 13 21 19 2  71 23 1  
+Objective function: 2.298615570243852
+Strain usage penalty: 1.0
+Normalized cumulated deviation penalty: 0.3009465725758532
+Maximum deviation penalty: 0.9976689976679987

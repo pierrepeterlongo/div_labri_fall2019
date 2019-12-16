@@ -1,0 +1,8 @@
+#	1:clpA_133 2:clpA_514 3:clpA_588 4:clpX_303 5:clpX_324 6:clpX_354 7:nifS_33 8:pyrG_190 9:pyrG_345 
+ 	    	     	1  2  3  4  5  6  7  8  9  
+0	1.0	Novel	A  A  X  G  A  T  G  G  G  
+Dev			11 62 83 19 15 22 11 15 14 
+Objective function: 2.115188619439631
+Strain usage penalty: 1.0
+Normalized cumulated deviation penalty: 0.2818552861056323
+Maximum deviation penalty: 0.8333333333339985

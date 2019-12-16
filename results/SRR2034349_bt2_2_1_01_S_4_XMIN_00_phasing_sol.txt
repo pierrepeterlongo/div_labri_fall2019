@@ -1,0 +1,12 @@
+#	1:clpA_133 2:clpA_514 3:clpA_588 4:clpX_303 5:clpX_324 6:clpX_354 7:nifS_33 8:pyrG_190 9:pyrG_345 
+ 	    	     	1  2  3  4  5  6  7  8  9  
+0	0.07	Novel	G  G  T  T  A  T  T  C  T  
+1	0.1	Novel	A  A  T  G  T  G  G  G  G  
+2	0.24	Novel	A  G  T  G  A  T  G  G  G  
+3	0.59	Novel	A  A  X  G  A  T  G  G  G  
+Dev			04 0  01 04 04 02 04 0  01 
+Objective function: 1.1047061908483928
+Strain usage penalty: 1.0
+Normalized cumulated deviation penalty: 0.02352653971035563
+Maximum deviation penalty: 0.04414261410100018
+Ratio of phased reads: 0.03703703703703709

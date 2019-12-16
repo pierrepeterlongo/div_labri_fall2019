@@ -1,0 +1,1 @@
+19	0.0	clpA_552:A	nifS_517:C	clpA_558:T	rplB_438:T	clpA_359:T	pyrG_169:G	clpX_354:T	clpX_298:C	recG_368:G	clpA_527:C	clpA_525:A	clpA_542:G	clpA_563:A	clpA_546:T	clpA_549:C	clpX_317:C	nifS_279:A	nifS_258:T	nifS_379:C	pepX_407:C	clpX_324:A	clpX_303:G	pyrG_378:A	clpA_531:A	clpX_306:G	clpA_533:A	clpA_518:T	clpA_514:A	clpA_539:G	pyrG_375:C

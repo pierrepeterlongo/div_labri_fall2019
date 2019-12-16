@@ -1,0 +1,36 @@
+Filter at 1std, 1count, 1%frequency
+STD	Number of positions discarded due to coverage deviation: 657
+COUNT	Number of nucleotides discarded due to low count: 416
+COUNT	Number of columns discarded due to low leading to empty column: 0
+FREQ	Number of nucleotides discarded due to low frequency: 0
+FREQ	Number of columns discarded due to low frequency leading to empty column: 0
+OUT	Number of variable positions: 43
+OUT	Number of invariant positions: 4112
+OUT	1 kept strains equivalence classes
+Filter at 1std, 1 count, 0.5%frequency
+STD	Number of positions discarded due to coverage deviation: 657
+COUNT	Number of nucleotides discarded due to low count: 416
+COUNT	Number of columns discarded due to low leading to empty column: 0
+FREQ	Number of nucleotides discarded due to low frequency: 0
+FREQ	Number of columns discarded due to low frequency leading to empty column: 0
+OUT	Number of variable positions: 43
+OUT	Number of invariant positions: 4112
+OUT	1 kept strains equivalence classes
+Filter at 2std, 1count, 1%frequency
+STD	Number of positions discarded due to coverage deviation: 156
+COUNT	Number of nucleotides discarded due to low count: 459
+COUNT	Number of columns discarded due to low leading to empty column: 0
+FREQ	Number of nucleotides discarded due to low frequency: 0
+FREQ	Number of columns discarded due to low frequency leading to empty column: 0
+OUT	Number of variable positions: 51
+OUT	Number of invariant positions: 4605
+OUT	1 kept strains equivalence classes
+Filter at 2std, 1 count, 0.5%frequency
+STD	Number of positions discarded due to coverage deviation: 156
+COUNT	Number of nucleotides discarded due to low count: 459
+COUNT	Number of columns discarded due to low leading to empty column: 0
+FREQ	Number of nucleotides discarded due to low frequency: 0
+FREQ	Number of columns discarded due to low frequency leading to empty column: 0
+OUT	Number of variable positions: 51
+OUT	Number of invariant positions: 4605
+OUT	1 kept strains equivalence classes

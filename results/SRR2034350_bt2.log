@@ -1,0 +1,13 @@
+1. Reading MLST data
+2. Extracting intervals
+3. Reading mapping results
+4. Detecting covered strains and selecting at most one mapping per read
+	Covered strains  	0
+	Uncovered strains	927
+	Kept mappings	1853
+5. Extracting the correspondance between alleles positions and MSA positions 
+6. Nucleotide content at each MSA position and reads phasing
+	Variable positions	150
+	Invariant positions	4659
+	Empty positions	3
+7. Writing output

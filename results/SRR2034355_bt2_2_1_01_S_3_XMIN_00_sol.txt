@@ -1,0 +1,10 @@
+#	1:clpA_116 2:clpA_184 3:clpA_514 4:clpA_518 5:clpA_525 6:clpA_531 7:clpA_548 8:clpA_588 9:clpX_303 10:clpX_306 11:clpX_309 12:clpX_321 13:clpX_346 14:clpX_623 15:nifS_34 16:nifS_371 17:nifS_456 18:nifS_477 19:nifS_486 20:nifS_537 21:nifS_540 22:pepX_154 23:pepX_238 24:pepX_274 25:pyrG_469 26:pyrG_588 27:pyrG_589 28:pyrG_590 29:recG_251 30:recG_410 31:recG_590 32:rplB_276 33:rplB_517 34:rplB_521 
+ 	    	     	1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 
+0	0.11	Novel	G  G  A  T  T  T  G  T  T  T  G  T  T  X  C  C  G  T  G  T  C  A  A  T  C  G  G  T  A  A  G  G  A  A  
+1	0.23	Novel	T  G  G  T  A  A  G  T  G  G  C  G  C  C  C  T  G  T  G  T  C  A  A  T  C  G  G  T  A  A  G  G  A  A  
+2	0.66	Novel	T  G  A  T  A  A  G  X  G  G  C  G  C  C  C  C  G  T  G  T  C  A  A  T  C  G  G  T  A  A  G  G  A  A  
+Dev			08 1  08 06 08 05 07 11 01 04 05 09 1  04 09 11 11 11 11 09 09 09 09 06 08 07 07 08 05 06 07 06 06 06 
+Objective function: 1.1833020445644586
+Strain usage penalty: 1.0
+Normalized cumulated deviation penalty: 0.07519393645635881
+Maximum deviation penalty: 0.10810810810810001

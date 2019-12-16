@@ -1,0 +1,12 @@
+#	1:clpA_514 2:clpA_518 3:clpA_525 4:clpA_527 5:clpA_531 6:clpA_539 7:clpA_552 8:clpA_588 9:clpX_57 10:clpX_306 11:clpX_324 12:clpX_354 13:clpX_358 14:clpX_623 15:nifS_279 16:pepX_316 17:pepX_414 18:pyrG_191 19:pyrG_203 20:pyrG_440 21:recG_337 22:recG_431 23:recG_543 24:rplB_165 25:rplB_506 26:uvrA_352 
+ 	    	     	1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+0	0.04	Novel	G  T  T  C  A  G  A  X  A  T  A  G  C  X  X  C  A  A  C  A  T  C  T  T  G  A  
+1	0.07	Novel	G  A  A  A  T  A  C  T  C  G  A  G  T  C  A  T  C  C  A  G  C  A  G  A  T  C  
+2	0.08	Novel	G  A  T  C  A  G  A  T  C  G  T  T  C  C  A  C  C  C  C  A  C  A  G  T  T  C  
+3	0.82	Novel	A  T  A  C  A  G  A  X  C  G  A  T  C  C  A  C  C  C  C  A  C  A  G  T  T  C  
+Dev			03 01 03 01 0  03 03 0  03 0  02 01 03 03 01 02 01 02 01 01 03 02 01 02 03 03 
+Objective function: 1.114045112160781
+Strain usage penalty: 1.0
+Normalized cumulated deviation penalty: 0.019542188183930866
+Maximum deviation penalty: 0.034502923976850064
+Ratio of phased reads: 0.05999999999999994

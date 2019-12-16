@@ -1,0 +1,11 @@
+#	1:clpA_176 2:clpA_359 3:clpA_544 4:clpA_588 5:clpX_120 6:clpX_136 7:clpX_296 8:clpX_298 9:clpX_303 10:clpX_306 11:clpX_317 12:clpX_319 13:clpX_324 14:clpX_326 15:clpX_329 16:clpX_334 17:clpX_354 18:clpX_366 19:clpX_454 20:nifS_120 21:nifS_216 22:nifS_226 23:nifS_258 24:nifS_493 25:pepX_74 26:pepX_207 27:pepX_405 28:pyrG_138 29:pyrG_166 30:pyrG_538 31:pyrG_563 32:recG_124 33:recG_445 34:recG_505 35:recG_539 36:recG_589 37:recG_609 38:rplB_74 39:rplB_89 40:rplB_92 41:rplB_108 42:rplB_160 43:rplB_262 44:rplB_351 45:rplB_380 46:rplB_394 47:rplB_461 48:rplB_552 49:uvrA_239 50:uvrA_398 51:uvrA_493 
+ 	    	     	1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 
+0	0.02	Novel	T  X  T  X  X  C  G  G  T  T  A  A  T  A  A  A  G  T  A  C  C  A  X  T  C  T  X  G  A  G  C  C  T  A  T  C  G  G  G  G  G  C  G  C  A  T  G  T  G  G  A  
+1	0.05	Novel	G  T  G  X  A  T  T  C  T  T  C  T  A  G  T  T  G  G  G  C  A  C  T  A  T  A  G  A  T  A  C  C  G  A  T  T  A  T  T  T  T  T  T  C  T  G  T  G  T  C  T  
+2	0.19	16	G  T  G  T  A  T  T  C  G  G  C  T  A  G  T  T  T  G  G  C  A  C  T  A  T  A  G  A  T  A  C  C  G  A  T  T  A  T  T  T  T  T  T  C  T  G  T  G  T  C  T  
+3	0.74	Novel	G  T  G  X  A  T  T  C  G  G  C  T  A  G  T  T  T  G  G  C  A  C  T  A  T  A  G  A  T  A  C  C  G  A  T  T  A  T  T  T  T  T  T  C  T  G  T  G  T  C  T  
+Dev			01 01 03 03 02 01 02 02 0  01 01 01 01 01 01 01 02 01 01 03 01 0  01 01 0  0  02 02 02 02 03 03 02 02 02 02 02 0  01 02 02 01 02 02 02 02 02 0  02 02 02 
+Objective function: 0.8565207957647285
+Strain usage penalty: 0.81461148648625
+Normalized cumulated deviation penalty: 0.014882282250978394
+Maximum deviation penalty: 0.02702702702750004

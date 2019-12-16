@@ -1,0 +1,1 @@
+1_403	0.0	clpA_552:A	clpA_558:T	clpA_359:T	clpA_533:A	clpX_296:T	clpX_354:T	clpX_298:C	clpA_527:C	clpA_525:A	clpA_542:G	clpA_563:A	clpA_546:T	clpX_317:C	nifS_279:A	clpX_321:G	clpX_344:T	clpX_324:A	clpX_303:G	clpA_536:A	clpA_531:A	clpX_306:G	clpA_519:G	clpA_518:T	clpX_309:C	clpA_514:A	clpA_539:G

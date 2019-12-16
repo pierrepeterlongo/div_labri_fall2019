@@ -1,0 +1,1 @@
+3_761_759_754	0.0	clpA_552:A	pepX_568:T	clpA_558:T	uvrA_545:G	clpA_359:T	clpA_533:A	clpX_296:T	clpX_354:T	clpA_527:C	clpA_525:A	clpA_542:G	clpX_120:A	clpA_563:A	clpA_548:G	clpX_317:C	nifS_279:A	nifS_358:C	clpA_588:T	clpX_321:G	clpX_344:T	clpX_324:A	clpX_303:G	clpA_536:A	clpA_531:A	clpX_306:G	pyrG_591:A	clpA_518:T	clpX_309:C	clpA_514:A	clpA_539:G
