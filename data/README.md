@@ -10,7 +10,7 @@ form a multiple sequence alignment (MSA).
 The alleles sequences for gene X are available in the files 'X.fasta' and the 
 MSA in the file 'X_mafft.fasta'.
 
-We downloaded also from <a href="https://pubmlst.org/borrelia/"pubmlst</a> a list 
+We downloaded also from <a href="https://pubmlst.org/borrelia/">pubmlst</a> a list 
 of knwon strain types (ST), each being composed of a set of 8 alleles, one per
 locus, and originate from North America, Asia and Europe. 
 They are available in the file 'bigsdb.txt'. In this file each line represents one
