@@ -27,5 +27,5 @@ we flanked the allele present in the ST by the corresponding flanking regions an
 all these sequences into a single sequence by a segment of 30 Ns. These genomes are
 available in the file 'bigsdb_flanked.fasta'.
 
-Lasst, the file 'samples_list.txt' contains the <a href="https://www.ncbi.nlm.nih.gov/sra">SRA</a> 
+Last, the file 'samples_list.txt' contains the <a href="https://www.ncbi.nlm.nih.gov/sra">SRA</a> 
 accession numbers of the 24 isolates we analyzed.
