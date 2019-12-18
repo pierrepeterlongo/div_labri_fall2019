@@ -7,7 +7,8 @@ The file 'borrelia_utils.py' provides scripts to manipulate an MLST scheme and d
 The file ILP_phasing.py implements the ILP described in the notebook '../doc/Experiments_02122019.ipynb'.
 The ILP is implemented in CPLEX, using docplex.
 
-To reproduce the results shown in the directory ../results', it can be used as follows:  
+To reproduce the results shown in the directory '../results', it can be used as follows:  
+  
 python ILP_phasing \  
     STRAINS_DATA_FILE \ #File describing the known STs that can occur in a sample   
     ALLELES_DATA_FILE \ #File describing the allele frequencies observed in a sample  
