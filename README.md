@@ -31,7 +31,8 @@ python src/ILP_phasing \
 For example, one run would be  
 python src/ILP_phasing.py ./results/SRR2034335_bt2_2_1_01_st_db.txt ./results/SRR2034335_bt2_2_1_01_varpos.txt ./results/SRR2034335_bt2_2_1_01_phasing.txt ./results/SRR2034335_bt2_2_1_01_S_4_XMIN_00_phasing 4 0 0 0.0 1 -2 1 0 
 
-The input files have the following formats:
+The input files have the following formats:  
+
 STRAINS_DATA_FILE (SRR2034335_bt2_2_1_01_st_db.txt): each line is a ST defined in terms of the variable positions of the sample  
 ST<TAB>{var_pos:nucleotide}^+
 
