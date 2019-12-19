@@ -10,4 +10,4 @@ For sample SRR20343XX, the files in this directory are the following:
 -	SRR20343XX_bt2_2_1_01_varpos.txt: variable positions for this sample  
 -	SRR20343XX_bt2_nucpos.txt: nucleotide content at each position for this sample 	 
 -	SRR20343XX_bt2_phasing_aux.txt: auxiliary file
-	 	 
+-	SRR20343XX_bt2_mapping.txt: selected mapping for each read
